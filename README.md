@@ -102,3 +102,41 @@ C#, Angular, ASP.NET, Design Pattern, OOPs interview questions
   <br>how can we handle events in one component not breaking down the whole application?
   <br>is this.setState aysnc?
 </p>
+<p><span style="font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif; font-size: 14px;"><strong>SQL Server FAQs</strong></span></p>
+<ul>
+  <li><span style="font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif; font-size: 12px;">What are transactions in SQL Server?</span></li>
+  <li><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">How do you handle exceptions in SQL Server?</span></span></li>
+  <li><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What is Set No Count off?</span></span></li>
+  <li><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What is DBCC?</span></span></li>
+  <li><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Have you ever done Performance Tuning in SQL Server?</span></span></li>
+  <li><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What are Cursors?</span></span></li>
+  <li><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Temp Tables vs Table Variables</span></span></li>
+  <li><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">How do you implement isolations in SQL Server?</span></span></li>
+  <li><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What is CTE?</span></span></li>
+  <li><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Rank vs Dense Rank?</span></span></li>
+  <li><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What are views?</span></span></li>
+  <li><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Can you update views from single table?</span></span></li>
+  <li><span style="font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif; font-size: 12px;">Can you update views from multiple tables?</span></li>
+</ul>
