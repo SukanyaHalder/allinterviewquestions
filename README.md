@@ -182,6 +182,9 @@ C#, Angular, ASP.NET, Design Pattern, OOPs interview questions
       12px;"><span style="font-family: 
         'Trebuchet MS', Helvetica, sans-serif;"><strong>Web API</strong></span></span></p>
 <ul>
+       <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">When do we use OPTIONS http verb?</span></span></li>
   <li style="margin-left: 20px;"><span style="font-size: 
       12px;"><span style="font-family: 
         'Trebuchet MS', Helvetica, sans-serif;">Explain about JWT Tokens</span></span></li>
