@@ -1,230 +1,234 @@
 # All Real Interview Questions
 C#, Angular, ASP.NET, Design Pattern, OOPs interview questions
-<p><span style="font-size: 14px; font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif;"><strong>Atmecs</strong></span><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">
+<p><span style="font-size: 16px; font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif;"><strong>Atmecs</strong></span><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">
       <br>
     </span></span></p>
-<p style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;"><strong>C#</strong></span></span></p>
+<p style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;"><strong>C#</strong></span></span></p>
 <ul>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Describe Nullable keyword.</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Why is it used? What problems it solves?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Syntax</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Describe Nullable keyword.</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Why is it used? What problems it solves?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Syntax</span></span></li>
 </ul>
-<p style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;"><strong>ASP.NET</strong></span></span></p>
+<p style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;"><strong>ASP.NET</strong></span></span></p>
 <ul>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Server.Transfer vs Response.Redirect</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Different forms of session</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Page level session state</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">If we have an application where session timeout is of 10 minutes but in a page we want 30 minutes of session timeout how will we implement it?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Method overloading and overriding in MVC</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif; font-size: 12px;">Views vs partial views</span></li>
-  <li style="margin-left: 20px;"><span style="font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif; font-size: 12px;"><span style="font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif; font-size: 12px;">.Partial vs .RenderPartial</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Server.Transfer vs Response.Redirect</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Different forms of session</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Page level session state</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">If we have an application where session timeout is of 10 minutes but in a page we want 30 minutes of session timeout how will we implement it?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Method overloading and overriding in MVC</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Views vs partial views</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">.Partial vs .RenderPartial</span></span></li>
 </ul>
-<p style="margin-left: 20px;"><span style="font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif; font-size: 12px;"><span style="font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif; font-size: 12px;"><strong>WCF &amp; Web API</strong></span></span></p>
+<p style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;"><strong>WCF &amp; Web API</strong></span></span></p>
 <ul>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">WCF vs Web API</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Attribute routing settings and implementation</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What settings we have to do for attribute routing</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">WCF vs Web API</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Attribute routing settings and implementation</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What settings we have to do for attribute routing</span></span></li>
 </ul>
-<p style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><strong><span style="font-size: 
-      12px;">SQL</span></strong></span></p>
+<p style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;"><strong>SQL</strong></span></span></p>
 <ul>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">All employees with 5th Highest salary&nbsp;</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Performance Tuning</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Temp table vs Table variable</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">CTE</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What is distinct?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">All employees with 5th Highest salary&nbsp;</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Performance Tuning</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Temp table vs Table variable</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">CTE</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What is distinct?</span></span></li>
 </ul>
-<p><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">
+<p><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">
       <br>
     </span></span></p>
-<p><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 14px;"><strong>HCL</strong></span></span></p>
-<p style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;"><strong>Angular</strong></span></span></p>
+<hr>
+<p><span style="font-size: 16px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;"><strong>HCL</strong></span></span></p>
+<p style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;"><strong>Angular</strong></span></span></p>
 <ul>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What are the building blocks of angular?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What are pipes? pure and impure pipes?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Lifecycle of angular application?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Life cycle hooks of angular component?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What are the building blocks of angular?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What are pipes? pure and impure pipes?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Lifecycle of angular application?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Life cycle hooks of angular component?</span></span></li>
 </ul>
-<p style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;"><strong>WCF &amp; Web API</strong></span></span></p>
+<p style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;"><strong>WCF &amp; Web API</strong></span></span></p>
 <ul>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Difference between Web API and WCF?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What is the difference between Channel Factory and Service Reference?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">How did you implement security in Web API?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What are contracts in WCF?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">How do you implement Fault contract?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Difference between Web API and WCF?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What is the difference between Channel Factory and Service Reference?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">How did you implement security in Web API?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What are contracts in WCF?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">How do you implement Fault contract?</span></span></li>
 </ul>
-<p style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;"><strong>C#</strong></span></span></p>
+<p style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;"><strong>C#</strong></span></span></p>
 <ul>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">SPAs vs Normal applications</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What are different design patterns you implemented</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Explain Singleton patterns</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What is the use of this keyword</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What are extension methods</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What is publisher-subscriber pattern</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">SOLID Principles</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">SPAs vs Normal applications</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What are different design patterns you implemented</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Explain Singleton patterns</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What is the use of this keyword</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What are extension methods</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What is publisher-subscriber pattern</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">SOLID Principles</span></span></li>
 </ul>
-<p><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">
-      <br>
-    </span></span></p>
-<p><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 14px;"><strong>EY&nbsp;</strong></span></span></p>
-<p style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;"><strong>SQL</strong></span></span></p>
+<hr>
+<p><span style="font-size: 16px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;"><strong>EY&nbsp;</strong></span></span></p>
+<p style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;"><strong>SQL</strong></span></span></p>
 <ul>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What are isolation Levels in SQL Server?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Performance Tuning?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What is CTE?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Temp table vs Table variable?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What are isolation Levels in SQL Server?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Performance Tuning?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What is CTE?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Temp table vs Table variable?</span></span></li>
 </ul>
-<p style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;"><strong>MVC</strong></span></span></p>
+<p style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;"><strong>MVC</strong></span></span></p>
 <ul>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">.Partial vs .RenderPartial</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">.Partial vs .RenderPartial</span></span></li>
 </ul>
-<p style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;"><strong>Web API</strong></span></span></p>
+<p style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;"><strong>Web API</strong></span></span></p>
 <ul>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Explain about JWT Tokens</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">How did you implement security in Web API</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">How did you implement HTTPS in Web API</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What is CORS?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">How can you enable CORS?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What are anti forgery tokens?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What is XSS?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Explain about JWT Tokens</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">How did you implement security in Web API</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">How did you implement HTTPS in Web API</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What is CORS?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">How can you enable CORS?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What are anti forgery tokens?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What is XSS?</span></span></li>
 </ul>
-<p style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;"><strong>WCF</strong></span></span></p>
+<p style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;"><strong>WCF</strong></span></span></p>
 <ul>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Difference between WCF and Web API?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What is interoperability?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">Can we implement interoperability using Web API?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What are contracts in WCF?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What are transactions in WCF?</span></span></li>
-  <li style="margin-left: 20px;"><span style="font-family: 
-        'Trebuchet MS', Helvetica, sans-serif;"><span style="font-size: 
-      12px;">What is concurrency and throttling?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Difference between WCF and Web API?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What is interoperability?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">Can we implement interoperability using Web API?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What are contracts in WCF?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What are transactions in WCF?</span></span></li>
+  <li style="margin-left: 20px;"><span style="font-size: 
+      12px;"><span style="font-family: 
+        'Trebuchet MS', Helvetica, sans-serif;">What is concurrency and throttling?</span></span></li>
   <li style="margin-left: 20px;"><span style="font-size: 12px; font-family: &quot;Trebuchet MS&quot;, Helvetica, sans-serif;">How do you implement throttling in WCF?</span></li>
 </ul>
+<hr>
 <p><strong>JRD</strong></p>
 <p style="margin-left: 20px;"><strong>C#&nbsp;</strong></p>
 <p style="margin-left: 20px;">Interfaces</p>
@@ -253,6 +257,7 @@ C#, Angular, ASP.NET, Design Pattern, OOPs interview questions
 <p>
   <br>
 </p>
+<hr>
 <p><strong>Abyll (13th March 2020)</strong></p>
 <p style="margin-left: 20px;"><strong>Introduction</strong></p>
 <p style="margin-left: 20px;">What is your current role in project?</p>
@@ -305,6 +310,7 @@ C#, Angular, ASP.NET, Design Pattern, OOPs interview questions
 <p>
   <br>
 </p>
+<hr>
 <p><strong>Virtusa- Full Stack</strong></p>
 <p style="margin-left: 20px;">
   <br><strong>Javascript</strong>
